@@ -1,0 +1,16 @@
+{
+  "name": "yaml-linter",
+  "version": "1.0.0",
+  "description": "yaml linter",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "linter.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "yaml": "^2.7.0"
+  },
+  "devDependencies": {}
+}
